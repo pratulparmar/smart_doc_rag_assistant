@@ -19,31 +19,31 @@ An intelligent document Q&A system built with Retrieval-Augmented Generation (RA
 ## Screenshots
 
 ### Welcome Screen
-![Welcome Screen](docs/screenshot_welcome1.jpg)
+![Welcome Screen](docs/Screenshot_welcome1.jpg)
 *Clean interface ready for document upload*
 
 ### Document Upload
-![Upload Interface](docs/screenshot_upload_doc.jpg)
+![Upload Interface](docs/Screenshot_upload_doc.jpg)
 *Simple file selection in sidebar*
 
 ### Document Processing
-![Processing](docs/screenshot_processing.jpg)
+![Processing](docs/Screenshot_processing.jpg)
 *Real-time feedback during document processing with progress indicators*
 
 ### Ready State
-![Ready to Query](docs/screenshot_ready.jpg)
+![Ready to Query](docs/Screenshot_ready.jpg)
 *Documents loaded and Q&A interface activated*
 
 ### Question Input
-![Asking Questions](docs/screenshot_question.jpg)
+![Asking Questions](docs/Screenshot_question.jpg)
 *Intuitive question input with advanced options*
 
 ### Answer with Source Citations
-![Q&A with Sources](docs/screenshot_result.jpg)
+![Q&A with Sources](docs/Screenshot_result.jpg)
 *Intelligent answers with source attribution and page numbers - the core RAG functionality in action*
 
 ### Conversation History
-![Conversation History](docs/screenshot_result.jpg)
+![Conversation History](docs/Screenshot_result.jpg)
 *Complete conversation tracking with expandable sources for transparency*
 
 
