@@ -19,11 +19,11 @@ An intelligent document Q&A system built with Retrieval-Augmented Generation (RA
 ## Screenshots
 
 ### Welcome Screen
-![Welcome Screen](docs/screenshot_welcome1.jpg, docs)
+![Welcome Screen](docs/screenshot_welcome1.jpg)
 *Clean interface ready for document upload*
 
 ### Document Upload
-![Upload Interface](docs/screenshot2_upload_doc.jpg)
+![Upload Interface](docs/screenshot_upload_doc.jpg)
 *Simple file selection in sidebar*
 
 ### Document Processing
@@ -35,7 +35,7 @@ An intelligent document Q&A system built with Retrieval-Augmented Generation (RA
 *Documents loaded and Q&A interface activated*
 
 ### Question Input
-![Asking Questions](docs/screenshot_question.jpg, docs)
+![Asking Questions](docs/screenshot_question.jpg)
 *Intuitive question input with advanced options*
 
 ### Answer with Source Citations
