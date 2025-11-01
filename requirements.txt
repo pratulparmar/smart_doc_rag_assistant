@@ -1,0 +1,14 @@
+#Core Dependencies
+
+streamlit==1.31.0          #web UI Framework 
+Langchain==0.1.9           # LLM application framework
+Langchain-openai==0.0.5    # OpenAI integration
+chromadb==0.4.22           # Vector database
+pypdf==4.0.1               # PDF text extraction
+python-dotenv==1.0.1       # Environment variable management
+
+
+# These are automatically installed as dependencies, but listing for clarity:
+# - openai (installed via langchain-openai)
+# - tiktoken (for token counting)
+# - pydantic (data validation)

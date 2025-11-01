@@ -205,3 +205,39 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+
+# Environment variables (NEVER commit secrets!)
+.env
+
+# Vector database (can be regenerated)
+chroma_db/
+
+# Uploaded documents (temporary files)
+uploaded_docs/
+
+# Test/Sample PDFs (don't commit to repo)
+*.pdf
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
