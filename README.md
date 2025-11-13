@@ -293,8 +293,8 @@ MIT License - Feel free to use for personal or commercial projects
 
 **Pratul Parmar**
 - GitHub: [@pratulparmar](https://github.com/pratulparmar)
-- LinkedIn: [Add your LinkedIn]
-- Portfolio: [Add your portfolio site]
+- LinkedIn: [pratulparmar](https://www.linkedin.com/in/pratul-parmar-a5002417a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhBGoPC08SSCuCD%2F6BPvOuw%3D%3D)
+- Email: pratulparmar8@gmail.com
 
 ---
 
